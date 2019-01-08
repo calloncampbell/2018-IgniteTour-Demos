@@ -1,5 +1,7 @@
 # 2018 Microsoft Ignite Tour Toronto Demos
 
+ ![](./docs/_img/Ignite-Tour-Toronto.png)
+
 These are my Azure Pipelines demos for the Microsoft Ignite Tour Toronto.
 
 
